@@ -24,12 +24,12 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    ```
 3. Crear y activar un entorno virtual (opcional pero recomendado):
 
-# En Windows:
+## En Windows:
    ```
     python -m venv venv
     venv\Scripts\activate
    ```
-# En macOS/Linux:
+## En macOS/Linux:
    ```
   python -m venv venv
   source venv/bin/activate
@@ -50,5 +50,6 @@ Una vez antivo el entorno virtual...
 # 6. Ahora puedes acceder al proyecto en:
 # http://127.0.0.1:8000/clients/
 # http://127.0.0.1:8000/products/
-# Y utilizar los servicios de la mi API.
-   ![image](https://github.com/user-attachments/assets/434f31c5-cdea-4514-a908-92f74db232be)
+   ## Y utilizar los servicios de la mi API.
+   ![image](https://github.com/user-attachments/assets/e09fa3a0-80e7-44d7-9b1a-6cdcabaf87e5)
+
