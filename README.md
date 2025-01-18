@@ -12,44 +12,44 @@ Estos servicios backend proporcionan una API robusta para interactuar con las en
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
-1. **Clonar el repositorio**:
+## 1. **Clonar el repositorio**:
 
    ```bash
    git clone https://github.com/Javi-cba/django-rest-fw-backend
    ```
 
-2. Navega al directorio:
+## 2. Navega al directorio:
    ```bash
    cd django-rest-fw-backend
    ```
-3. Crear y activar un entorno virtual (opcional pero recomendado):
+## 3. Crear y activar un entorno virtual (opcional pero recomendado):
 
-## En Windows:
+### En Windows:
    ```
     python -m venv venv
     venv\Scripts\activate
    ```
-## En macOS/Linux:
+### En macOS/Linux:
    ```
   python -m venv venv
   source venv/bin/activate
    ```
 Una vez antivo el entorno virtual...
 
-4. Instala las dependencias:
+## 4. Instala las dependencias:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-5. Ejecuta el proyecto:
+## 5. Ejecuta el proyecto:
    ```bash
    python manage.py runserver
    ```
    
-# 6. Ahora puedes acceder al proyecto en:
-# http://127.0.0.1:8000/clients/
-# http://127.0.0.1:8000/products/
-   ## Y utilizar los servicios de la mi API.
+## 6. Ahora puedes acceder al proyecto en:
+### http://127.0.0.1:8000/clients/
+### http://127.0.0.1:8000/products/
+   ### Y utilizar los servicios de la mi API.
    ![image](https://github.com/user-attachments/assets/e09fa3a0-80e7-44d7-9b1a-6cdcabaf87e5)
 
