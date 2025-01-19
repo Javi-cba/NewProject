@@ -7,7 +7,7 @@ Este proyecto está desarrollado con Django y Django REST Framework, ofreciendo 
 - **Gestión de Pedidos (Order)**: Permite manejar los pedidos de los clientes, con opciones para crear, actualizar, consultar y eliminar registros de pedidos.
 
 Estos servicios backend proporcionan una API robusta para interactuar con las entidades mencionadas, permitiendo una administración eficiente y escalable de un sistema de comercio electrónico.
-
+ 
 ## Instalación
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
