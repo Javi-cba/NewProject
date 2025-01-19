@@ -62,4 +62,4 @@ python manage.py runserver
 
 ### Y utilizar los servicios de la mi API, Te aconsejo usar mi colección de Postman.
 
-![image](https://github.com/user-attachments/assets/e09fa3a0-80e7-44d7-9b1a-6cdcabaf87e5)
+[![Colección Postman](https://assets.postman.com/postman-docs/collection-icon.png)](https://javi-cba.postman.co/workspace/Proyectos~d7bc1784-8238-409a-a2bd-c68542cee55c/collection/26619184-f77083f0-c3e6-4c0c-9f1f-7317411cebba?action=share&creator=26619184)
